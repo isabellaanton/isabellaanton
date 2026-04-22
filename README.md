@@ -12,40 +12,40 @@
 
 <p align="center">
   <a href="https://github.com/harish-sethuraman/readme-components">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=python&svgfill=3776AB" height="60" />
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=python&svgfill=3776AB" height="55" />
   </a>
   <a href="https://github.com/harish-sethuraman/readme-components">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=F7DF1E" height="60" />
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=F7DF1E" height="55" />
   </a>
   <a href="https://github.com/harish-sethuraman/readme-components">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&svgfill=E34F26" height="60" />
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&svgfill=E34F26" height="55" />
   </a>
   <a href="https://github.com/harish-sethuraman/readme-components">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=css3&svgfill=1572B6" height="60" />
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=css3&svgfill=1572B6" height="55" />
   </a>
   <a href="https://github.com/harish-sethuraman/readme-components">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=java&svgfill=ED8B00" height="60" />
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=java&svgfill=ED8B00" height="55" />
   </a>
   <a href="https://github.com/harish-sethuraman/readme-components">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mysql&svgfill=4479A1" height="60" />
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mysql&svgfill=4479A1" height="55" />
   </a>
   <a href="https://github.com/harish-sethuraman/readme-components">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=339933" height="60" />
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=339933" height="55" />
   </a>
   <a href="https://github.com/harish-sethuraman/readme-components">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=dart&svgfill=0175C2" height="60" />
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=dart&svgfill=0175C2" height="55" />
   </a>
   <a href="https://github.com/harish-sethuraman/readme-components">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=61DAFB" height="60" />
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=61DAFB" height="55" />
   </a>
   <a href="https://github.com/harish-sethuraman/readme-components">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=figma&svgfill=F24E1E" height="60" />
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=figma&svgfill=F24E1E" height="55" />
   </a>
   <a href="https://github.com/harish-sethuraman/readme-components">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=androidstudio&svgfill=3DDC84" height="60" />
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=androidstudio&svgfill=3DDC84" height="55" />
   </a>
   <a href="https://github.com/harish-sethuraman/readme-components">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=godot&svgfill=478CBF" height="60" />
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=godotengine&svgfill=478CBF" height="55" />
   </a>
 </p>
 
