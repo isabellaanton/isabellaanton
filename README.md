@@ -44,6 +44,9 @@
   <a href="https://github.com/harish-sethuraman/readme-components">
     <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=androidstudio&svgfill=3DDC84" />
   </a>
+  <a href="https://github.com/harish-sethuraman/readme-components">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=godotengine&svgfill=478CBF" />
+  </a>
 </p>
 
 <p align="center">
