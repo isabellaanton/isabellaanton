@@ -4,8 +4,8 @@ from datetime import date, timedelta
 
 # Feriados nacionais brasileiros (fixos)
 FERIADOS = {
-    (1, 1), (4, 21), (5, 1), (9, 7),
-    (10, 12), (11, 2), (11, 15), (11, 20), (12, 25),
+    (1, 1), (5, 1), (9, 7),
+    , (11, 2), (11, 20),
     # Semana santa (aproximada)
     (3, 28), (3, 29), (3, 30),
     # Carnaval (aproximado)
