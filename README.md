@@ -28,12 +28,9 @@
 </p>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=isabellaanton&show_icons=true&theme=midnight-purple" />
-  </a>
+     <img src="https://github-readme-stats.vercel.app/api?username=isabellaanton&show_icons=true&theme=midnight-purple&count_private=true" />  </a>
   <br /><br />
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabellaanton&layout=compact&theme=midnight-purple" />
-  </a>
+  
 </p>
 <br /><br />
 <p align="center">
