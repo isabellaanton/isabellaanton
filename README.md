@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Isabella%20Anton&font=Fira%20Code&center=true&width=620&height=50&color=BF94E4&vCenter=true&size=30&duration=0&pause=99999" />
+  <img src="images/nome.svg" />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Estudante%20de%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o&font=Fira%20Code&center=true&width=600&height=45&color=BF94E4&vCenter=true&pause=99999&size=20&duration=0" />
+  <img src="images/descricao.svg" />
 </p>
 <br /><br />
 <p align="center">
