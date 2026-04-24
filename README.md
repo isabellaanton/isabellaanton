@@ -49,3 +49,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabellaanton&layout=compact&theme=midnight-purple" />
   </a>
 </p>
+
+## Meu GitHub em forma de jogo
+
+![Space Shooter](game.gif)
