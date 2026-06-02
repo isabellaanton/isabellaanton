@@ -58,4 +58,4 @@ while dia_atual <= hoje:
 print(f"Dias com atividade: {dias_ativos}")
 print(f"Total de commits: {total_commits}")
 
-subprocess.run(["git", "push"], check=True)  # ← descomentado!
+"subprocess.run(["git", "push"], check=True)  # ← descomentado!"
