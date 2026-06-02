@@ -14,7 +14,7 @@ jobs:
     steps:
       - uses: actions/checkout@v6
         with:
-          fetch-depth: 2
+          fetch-depth: 0 # Garante que todo o histórico seja baixado para evitar conflitos de push
 
       - uses: actions/setup-python@v5
         with:
@@ -30,3 +30,10 @@ jobs:
           strategy: 'random'
           fps: 40
           no-amend: 'true'
+
+      # Passo crucial: adiciona o novo GIF gerado e envia tudo de uma vez só
+      - name: Enviar atualizações e GIF para o repositório
+        run: |
+          git add game.gif
+          git commit -m "chore: update space shooter game.gif" || echo "Sem alterações no GIF hoje"
+          git push origin main
