@@ -23,6 +23,12 @@
   <a href="https://github.com/harish-sethuraman/readme-components"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=godotengine&svgfill=478CBF" height="55" /></a>
 </p>
 <br /><br />
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=isabellaanton&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 <!-- Your comment here 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Estat%C3%ADsticas%20do%20Perfil&font=Fira%20Code&center=true&width=400&height=30&color=BF94E4&vCenter=true&size=20" />
