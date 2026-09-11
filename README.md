@@ -26,13 +26,7 @@
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=isabellaanton&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<a href="https://gitcolors.vercel.app" target="_blank" rel="noopener">
-  <picture>
-    <source srcset="https://gitcolors.vercel.app/api/svg?username=isabellaanton&color=ef4444&theme=dark&mode=mono&preset=girly&animate=true&emptyColor=tint" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://gitcolors.vercel.app/api/svg?username=isabellaanton&color=ef4444&theme=light&mode=mono&preset=girly&animate=true&emptyColor=tint" media="(prefers-color-scheme: light)" />
-    <img src="https://gitcolors.vercel.app/api/svg?username=isabellaanton&color=ef4444&theme=light&mode=mono&preset=girly&animate=true&emptyColor=tint" width="846" height="164" style="height:auto" />
-  </picture>
-</a>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!-- Your comment here 
