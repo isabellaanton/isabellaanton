@@ -15,12 +15,12 @@
   <a href="https://github.com/harish-sethuraman/readme-components"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=css3&svgfill=1572B6" height="55" /></a>
   <a href="https://github.com/harish-sethuraman/readme-components"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=java&svgfill=ED8B00" height="55" /></a>
   <a href="https://github.com/harish-sethuraman/readme-components"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mysql&svgfill=4479A1" height="55" /></a>
-  <a href="https://github.com/harish-sethuraman/readme-components"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=339933" height="55" /></a>
   <a href="https://github.com/harish-sethuraman/readme-components"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=dart&svgfill=0175C2" height="55" /></a>
   <a href="https://github.com/harish-sethuraman/readme-components"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=61DAFB" height="55" /></a>
   <a href="https://github.com/harish-sethuraman/readme-components"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=figma&svgfill=F24E1E" height="55" /></a>
-  <a href="https://github.com/harish-sethuraman/readme-components"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=androidstudio&svgfill=3DDC84" height="55" /></a>
+  <a href="https://github.com/harish-sethuraman/readme-components"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=docker&svgfill=3DDC84" height="55" /></a>
   <a href="https://github.com/harish-sethuraman/readme-components"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=godotengine&svgfill=478CBF" height="55" /></a>
+  <a href="https://github.com/harish-sethuraman/readme-components"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=unity&svgfill=478CBF" height="55" /></a>
 </p>
 <br /><br />
 
