@@ -32,7 +32,6 @@
 ![My GitHub Game](game.gif)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<!-- Your comment here 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Estat%C3%ADsticas%20do%20Perfil&font=Fira%20Code&center=true&width=400&height=30&color=BF94E4&vCenter=true&size=20" />
 </p>
