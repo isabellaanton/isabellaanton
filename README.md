@@ -1,9 +1,14 @@
-<p align="center">
-  <img src="images/nome.svg" />
-</p>
-<p align="center">
-  <img src="images/descricao.svg" />
-</p>
+<div align="center">
+
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+
+<!--                    ISABELLA ANTON                          -->
+
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d0d0d,50:171117,100:6E00B3&section=header&reversal=false&text=Isabella+Anton&fontColor=ffffff&textBg=false&fontSize=48&fontAlign=50&fontAlignY=34&animation=fadeIn&rotate=0&desc=Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%E2%80%A2+UNIFOR&descSize=18&descAlign=50&descAlignY=54" width="100%"
+  />
+
 <br /><br />
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Tecnologias%20e%20Ferramentas&font=Fira%20Code&center=true&width=400&height=30&color=9a57d5&vCenter=true&size=20" />
@@ -46,3 +51,12 @@
 <p align="center">
   <img src="game.gif" />
 </p>
+
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0d0d0d,50:171117,100:6E00B3&section=footer" width="100%" />
+
+<sub>Feito com código, curiosidade e um toque de roxo. ♡</sub>
+
+</div>
