@@ -6,7 +6,7 @@
 </p>
 <br /><br />
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Tecnologias%20e%20Ferramentas&font=Fira%20Code&center=true&width=400&height=30&color=BF94E4&vCenter=true&size=20" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Tecnologias%20e%20Ferramentas&font=Fira%20Code&center=true&width=400&height=30&color=9a57d5&vCenter=true&size=20" />
 </p>
 <p align="center">
   <a href="https://github.com/harish-sethuraman/readme-components"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=python&svgfill=3776AB" height="55" /></a>
@@ -23,14 +23,16 @@
   <a href="https://github.com/harish-sethuraman/readme-components"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=unity&svgfill=478CBF" height="55" /></a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=isabellaanton&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs">
-</p>
+
 <br /><br />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Estat%C3%ADsticas%20do%20Perfil&font=Fira%20Code&center=true&width=400&height=30&color=BF94E4&vCenter=true&size=20" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Estat%C3%ADsticas%20do%20Perfil&font=Fira%20Code&center=true&width=400&height=30&color=9a57d5&vCenter=true&size=20" />
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=isabellaanton&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs">
+</p>
+
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
      <img src="https://github-readme-stats.vercel.app/api?username=isabellaanton&show_icons=true&theme=midnight-purple&count_private=true" />  </a>
