@@ -46,7 +46,7 @@
 </p>
 <br /><br />
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Minhas%20Contribui%C3%A7%C3%B5es!&font=Fira%20Code&center=true&width=500&height=30&color=BF94E4&vCenter=true&size=20" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Minhas%20Contribui%C3%A7%C3%B5es!&font=Fira%20Code&center=true&width=500&height=30&color=9a57d5&vCenter=true&size=20" />
 </p>
 <p align="center">
   <img src="game.gif" />
