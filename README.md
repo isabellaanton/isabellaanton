@@ -6,7 +6,7 @@
 
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d0d0d,50:171117,100:6E00B3&section=header&reversal=false&text=Isabella+Anton&fontColor=ffffff&textBg=false&fontSize=48&fontAlign=50&fontAlignY=34&animation=fadeIn&rotate=0&desc=Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%E2%80%A2+UNIFOR&descSize=18&descAlign=50&descAlignY=54" width="100%"
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d0d0d,50:171117,100:6E00B3&section=header&reversal=false&text=Isabella+Anton&fontColor=ffffff&textBg=false&fontSize=48&fontAlign=50&fontAlignY=34&animation=fadeIn&rotate=0&desc=Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%E2%80%A2+UNIFOR&descSize=17&descAlign=50&descAlignY=54" width="100%"
   />
 
 <br /><br />
