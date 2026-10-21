@@ -9,25 +9,33 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d0d0d,50:171117,100:6E00B3&section=header&reversal=false&text=Isabella+Anton&fontColor=ffffff&textBg=false&fontSize=48&fontAlign=50&fontAlignY=34&animation=fadeIn&rotate=0&desc=Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%E2%80%A2+UNIFOR&descSize=17&descAlign=50&descAlignY=54" width="100%"
   />
 
-<br /><br />
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Tecnologias%20e%20Ferramentas&font=Fira%20Code&center=true&width=400&height=30&color=9a57d5&vCenter=true&size=20" />
 </p>
+
 <p align="center">
+  <strong>Linguagens & Banco de Dados</strong><br><br>
   <a href="https://github.com/harish-sethuraman/readme-components"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=python&svgfill=3776AB" height="55" /></a>
   <a href="https://github.com/harish-sethuraman/readme-components"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=F7DF1E" height="55" /></a>
-  <a href="https://github.com/harish-sethuraman/readme-components"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&svgfill=E34F26" height="55" /></a>
-  <a href="https://github.com/harish-sethuraman/readme-components"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=css3&svgfill=1572B6" height="55" /></a>
   <a href="https://github.com/harish-sethuraman/readme-components"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=java&svgfill=ED8B00" height="55" /></a>
   <a href="https://github.com/harish-sethuraman/readme-components"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mysql&svgfill=4479A1" height="55" /></a>
-  <a href="https://github.com/harish-sethuraman/readme-components"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=dart&svgfill=0175C2" height="55" /></a>
-  <a href="https://github.com/harish-sethuraman/readme-components"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=61DAFB" height="55" /></a>
-  <a href="https://github.com/harish-sethuraman/readme-components"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=figma&svgfill=F24E1E" height="55" /></a>
-  <a href="https://github.com/harish-sethuraman/readme-components"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=docker&svgfill=3DDC84" height="55" /></a>
-  <a href="https://github.com/harish-sethuraman/readme-components"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=godotengine&svgfill=478CBF" height="55" /></a>
-  <a href="https://github.com/harish-sethuraman/readme-components"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=unity&svgfill=478CBF" height="55" /></a>
 </p>
 
+<p align="center">
+  <strong>Web & Mobile</strong><br><br>
+  <a href="https://github.com/harish-sethuraman/readme-components"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&svgfill=E34F26" height="55" /></a>
+  <a href="https://github.com/harish-sethuraman/readme-components"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=css3&svgfill=1572B6" height="55" /></a>
+  <a href="https://github.com/harish-sethuraman/readme-components"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=dart&svgfill=0175C2" height="55" /></a>
+  <a href="https://github.com/harish-sethuraman/readme-components"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=61DAFB" height="55" /></a>
+</p>
+
+<p align="center">
+  <strong>Game Dev & Ferramentas</strong><br><br>
+  <a href="https://github.com/harish-sethuraman/readme-components"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=godotengine&svgfill=478CBF" height="55" /></a>
+  <a href="https://github.com/harish-sethuraman/readme-components"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=unity&svgfill=478CBF" height="55" /></a>
+  <a href="https://github.com/harish-sethuraman/readme-components"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=figma&svgfill=F24E1E" height="55" /></a>
+  <a href="https://github.com/harish-sethuraman/readme-components"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=docker&svgfill=3DDC84" height="55" /></a>
+</p>
 
 <br /><br />
 
