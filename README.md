@@ -19,6 +19,7 @@
   <a href="https://github.com/harish-sethuraman/readme-components"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=F7DF1E" height="55" /></a>
   <a href="https://github.com/harish-sethuraman/readme-components"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=java&svgfill=ED8B00" height="55" /></a>
   <a href="https://github.com/harish-sethuraman/readme-components"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mysql&svgfill=4479A1" height="55" /></a>
+ <a href="https://github.com/harish-sethuraman/readme-components"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=firebase&svgfill=4479A1" height="55" /></a>
 </p>
 
 <p align="center">
@@ -35,6 +36,7 @@
   <a href="https://github.com/harish-sethuraman/readme-components"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=unity&svgfill=478CBF" height="55" /></a>
   <a href="https://github.com/harish-sethuraman/readme-components"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=figma&svgfill=F24E1E" height="55" /></a>
   <a href="https://github.com/harish-sethuraman/readme-components"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=docker&svgfill=3DDC84" height="55" /></a>
+ <a href="https://github.com/harish-sethuraman/readme-components"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=git&svgfill=3DDC84" height="55" /></a>
 </p>
 
 <br /><br />
